@@ -1,0 +1,29 @@
+# Fichiers de données brutes à ignorer
+logements_sociaux_fr_brut.csv
+logements_sociaux_fr_propre.csv
+revenus_et_pauvrete_2021_DEP.csv
+revenus_et_pauvrete_2021_geo2024_csv.zip
+revenus_et_pauvrete_2021_meta.csv
+ValeursFoncieres-2024.txt
+
+# Fichiers temporaires Word
+~$projet.docx
+
+# Autres fichiers à ignorer si pas nécessaires
+projet.docx
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers Python
+__pycache__/
+*.pyc
+
+# Dossier virtuel éventuel
+.env
+.venv
+venv/
+
+# Fichiers Jupyter Checkpoints
+.ipynb_checkpoints/
