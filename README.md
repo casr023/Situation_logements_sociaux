@@ -30,9 +30,14 @@
 
 - Demande de Valeurs Foncières (Data.gouv.fr, 2024), fichier txt - [Lien](https://www.data.gouv.fr/fr/datasets/demandes-de-valeurs-foncieres/)
 
-
 ---
 
+## Contexte des données
+
+Les données utilisées dans ce projet proviennent de sources ouvertes, avec des millésimes hétérogènes datant de 2021 et de 2024.  
+Ce projet vise avant tout à développer mes compétences techniques en Python, SQL et BI, et non à produire une analyse économique à jour.
+
+---
 
 ## Lancer le projet
 
